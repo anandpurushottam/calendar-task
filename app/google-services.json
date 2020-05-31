@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "845906104171",
+    "firebase_url": "https://calendar-task-9c81b.firebaseio.com",
+    "project_id": "calendar-task-9c81b",
+    "storage_bucket": "calendar-task-9c81b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845906104171:android:6013465a6a78f54c16062e",
+        "android_client_info": {
+          "package_name": "com.example.calendertask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845906104171-ao00qbf42qidsaufprfo0bfrhog8jf2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.calendertask",
+            "certificate_hash": "a86afea9debf0d172695adc68176981687e0ede6"
+          }
+        },
+        {
+          "client_id": "845906104171-em3a594k1gfd55n4sqr5i4kkk91a4ru5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq9k6Ts16L4IBkFkMIhURc0CGAI7MLwOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845906104171-em3a594k1gfd55n4sqr5i4kkk91a4ru5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

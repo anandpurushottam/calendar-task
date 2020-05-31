@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="button_padding">24dp</dimen>
+
+    <dimen name="space_4">4dp</dimen>
+    <dimen name="space_8">8dp</dimen>
+
+    <dimen name="text_21">21sp</dimen>
+
+</resources>
